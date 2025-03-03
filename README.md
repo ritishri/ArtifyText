@@ -32,7 +32,7 @@ The website uses Clipdrop API to generate images based on user prompts.
 
 # 🔑 Installation
 Clone the repository.
-git clone [ https://github.com/your-username/project-name.git](https://github.com/ritishri/ArtifyText)
+git clone [https://github.com/ritishri/ArtifyText]
 
 # Install dependencies
 cd client
